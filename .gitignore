@@ -1,0 +1,8 @@
+# IDE 配置文件
+.idea
+vs/
+.vs/
+# .vscode/
+
+chart*
+*.log
